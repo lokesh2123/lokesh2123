@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Lokesh Kommini</h1>
 
 <div align="center">
-  <img src="file:///C:/Users/u117772/OneDrive%20-%20Stockland%20Development%20Pty%20Ltd/Pictures/Lokesh%20Kommini.png" alt="Lokesh Banner">
+  <img src="https://github.com/lokesh2123/lokesh2123/blob/main/Lokesh%20Kommini.png" alt="Lokesh Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector and in my free time I make YouTube videos at <a href="https://www.youtube.com/@devopsshack" target="_blank">DevOpsShack</a></h3>
