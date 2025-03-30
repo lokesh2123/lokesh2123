@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/lokesh2123">
-    <img src="https://img.shields.io/github/followers/lokesh2123?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
   <a href="https://www.linkedin.com/in/komminilokesh/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
   </a>
