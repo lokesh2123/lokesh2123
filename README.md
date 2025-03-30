@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="https://github.com/lokesh2123">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/lokesh2123?label=Follow&style=social" />
   <a href="https://www.linkedin.com/in/komminilokesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lokesh%20Lokesh-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
   <img src="https://komarev.com/ghpvc/?username=lokesh2123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
