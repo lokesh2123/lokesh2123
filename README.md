@@ -3,14 +3,14 @@
 
 # 👋 Hi, I'm Lokesh
 
-### [Your Primary Role, e.g., DevOps Engineer] | [Your Secondary Role, e.g., Cloud & SRE Engineer]
+### DevOps Engineer | AWS Cloud Engineer | SRE
 
-🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform | Docker | Ansible | Linux | Shell Script
+🚀 DevOps • SRE • Cloud Engineer | AWS | AZURE | CI/CD | Kubernetes | Terraform | Docker | Ansible | Linux | Shell Script | Datadog | NewRelic | Cursor AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/komminilokesh)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:komminilokesh28@gmail.com)
 
-Passionate **[Your Role]** with **[X.X years]** of experience in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
+Passionate **[DevOps Engineer & SRE]** with **[6+ years]** of experience in infrastructure automation, CI/CD, and container orchestration (Docker, Kubernetes). Skilled in Terraform, Jenkins, and GitHub Actions, delivering scalable, reliable, and efficient cloud environments. Dedicated to building automation-first solutions that enhance reliability and accelerate innovation.
 
 ---
 
